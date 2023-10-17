@@ -1,0 +1,30 @@
+#log {
+    max-height: 150px; /* Limit the height to show a certain number of lines */
+    max-width: 100px; /* Limit the width */
+    overflow-x: scroll; /* Add a horizontal scrollbar when content exceeds the width */
+    font-family: 'Courier New', monospace; /* You can adjust the font to your preference */
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+/* Add your additional CSS styles here */
+/* Add this CSS code to your style.css file or within a <style> tag in your HTML */
+body {
+    background-color: lightblue;
+    font-family: 'Courier New', monospace; /* You can adjust the font to your preference */
+}
+
+h1 {
+    font-family: 'Courier New', monospace; /* You can adjust the font to your preference */
+}
+
+#vault {
+    background-color: white;
+    border: 2px solid #333;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button {
+    font-family: 'Courier New', monospace; /* You can adjust the font to your preference */
+}
