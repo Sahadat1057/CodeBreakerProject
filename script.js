@@ -93,3 +93,4 @@ function log(message) {
 
 // Generate the initial secret code
 generateSecretCode();
+
